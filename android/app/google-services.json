@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154804527021",
+    "project_id": "car2gopro-788db",
+    "storage_bucket": "car2gopro-788db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154804527021:android:2fadc39a0c26d421d50b24",
+        "android_client_info": {
+          "package_name": "bd.com.car2go.car2godriver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-gnQJLQNXifX7gHTlvCcjKiSBb9pkJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154804527021:android:de7376506f06d6fdd50b24",
+        "android_client_info": {
+          "package_name": "bd.com.car2go.car2gouser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM-gnQJLQNXifX7gHTlvCcjKiSBb9pkJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
